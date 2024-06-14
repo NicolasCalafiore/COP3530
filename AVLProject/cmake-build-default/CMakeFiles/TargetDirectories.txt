@@ -1,0 +1,3 @@
+C:/Users/Administrator/Desktop/AVLProject/cmake-build-default/CMakeFiles/AVLProject.dir
+C:/Users/Administrator/Desktop/AVLProject/cmake-build-default/CMakeFiles/edit_cache.dir
+C:/Users/Administrator/Desktop/AVLProject/cmake-build-default/CMakeFiles/rebuild_cache.dir
